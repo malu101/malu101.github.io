@@ -617,6 +617,7 @@ svg{
 
    .home .container{
 		flex-direction: column;
+		margin-top: 12rem;
    }
    .home .container .info{
 		padding-bottom: 6rem;
@@ -688,7 +689,7 @@ svg{
    }
    
    .home .container{
-		margin-top: 7rem;
+		margin-top: 5rem;
    }
    
    .home .home-text{
