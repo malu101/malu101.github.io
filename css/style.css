@@ -753,13 +753,13 @@ svg{
 
 }
 
-@media (max-width:500px) and (max-height:730px){
+@media (max-width:500px) and (max-height:720px){
    .home .container{
 		margin-top: 0rem;
    }
    
    .home{
-	margin-top: 5rem;
+	margin-top: 4rem;
    }
    
 }
