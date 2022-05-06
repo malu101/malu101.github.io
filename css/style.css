@@ -730,7 +730,7 @@ svg{
    
    .projects .box-container{
 		grid-template-columns: repeat(1, minmax(20rem,1fr));
-		grid-template-rows: minmax(20rem,1fr);
+		grid-template-rows: repeat(6, minmax(20rem,1fr));
    }
    
    .contact .box p{
