@@ -752,3 +752,9 @@ svg{
    }
 
 }
+
+@media (max-width:500px) and (max-height:740px){
+   .home .container{
+		margin-top: 1rem;
+   }
+}
